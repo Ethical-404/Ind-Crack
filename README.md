@@ -1,6 +1,6 @@
 ## ⚡ WELCOME TO MY PROFILE
-<p align="center"><a href="https://github.com/Arbab-Memon"><img src="https://gist.githubusercontent.com/Arbab-Memon/840529c7f74aa3eaf445fd28c5d2d175/raw/tahm1d.gif" height='195' alt="ARBAB-MEMON">
-<a href="https://github.com/htr-tech"><img title="HTR-TECH" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/Arbab-Memon"><img src="https://gist.githubusercontent.com/Arbab-Memon/840529c7f74aa3eaf445fd28c5d2d175/raw/Arbab.gif" height='195' alt="ARBAB-MEMON">
+<a href="https://github.com/htr-tech"><img title="Arbab-Memon" src="https://github-readme-stats.vercel.app/api?username=Arbab-Memon&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
