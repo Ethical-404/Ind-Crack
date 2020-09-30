@@ -1,4 +1,4 @@
- ![Arbab's github stats]https://github-readme-stats.vercel.app/api?username=Arbab-Memon&hide=contribs,prs)
+![Arbab's github stats]https://github-readme-stats.vercel.app/api?username=Arbab-Memon&hide=contribs,prs)
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Hi 👋
