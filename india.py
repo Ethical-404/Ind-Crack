@@ -107,11 +107,10 @@ logo='''
 \x1b[1;91m  \/_/\/_/   \/_/ /_/   \/_____/   \/_/\/_/   \/_____/ 
 
 back = 0
-berhasil = []
-cekpoint = []
+successful = []
+cpb = []
 oks = []
 id = []
-cpb = []
 listgrup = []
 gagal = []
 idfriends = []
