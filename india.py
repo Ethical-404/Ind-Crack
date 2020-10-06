@@ -207,20 +207,20 @@ jalan('\033[1;92m/\  __ \   /\  == \   /\  == \   /\  __ \   /\  == \ ')
 jalan('\033[1;91m\ \  __ \  \ \  __<   \ \  __<   \ \  __ \  \ \  __<  ') 
 jalan('\033[1;92m \ \_\ \_\  \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_____\ ')
 jalan('\033[1;91m  \/_/\/_/   \/_/ /_/   \/_____/   \/_/\/_/   \/_____/ ')
-jalan('\033[1;93m   ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ')
+
 jalan('\033[1;91m   PLEASE BEFORE ENTER TELL US YOUR BIOGRAPHY ')
 print("YOUR INFORMATION NEEDED PROCESS")
 print("MR ANNONYMOUS ENTER HERE YOUR AGE")
 age = int(input("ENTER HERE YOUR AGE"))
 if age>=18:
     print("YOUR ARE ABLE TO SEE THIS FULL GALAXY")
-jalan('\033[1;93m   ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ')
+
 jalan('\033[1;91m   YOU ARE IN THE CYBER HACKING GALAXY R.H.P 1.0286  ')
 jalan('\033[1;92m   THE GANGE MAKER PLAYER MR ARBAB ALI MEMON ✓✓✓✓  ')
 jalan('\033[1;94m   BE READY CLOSE ALL THE OTHER TABS....ENTERING....  ')
 jalan('\033[1;96m   PlEASE DO NOT STOP..PROCESS IS GOING TO SRART....  ')
 jalan('\033[1;97m   PLEASE ENTER HERE OWNER GLAXY NAME AND KEY.... ')
-jalan('\033[1;93m   ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ')
+
 jalan('\033[1;97mGALAXY NAME/KEY\x1b[1;91m[\x1b[1;92m✓\x1b[1;91m] \x1b[1;93mISMART/ARBAB')
 CorrectUsername = 'ISMART'
 CorrectPassword = 'ARBAB'
