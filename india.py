@@ -221,7 +221,7 @@ jalan('\033[1;94m   BE READY CLOSE ALL THE OTHER TABS....ENTERING....  ')
 jalan('\033[1;96m   PlEASE DO NOT STOP..PROCESS IS GOING TO SRART....  ')
 jalan('\033[1;97m   PLEASE ENTER HERE OWNER GLAXY NAME AND KEY.... ')
 
-jalan('\033[1;97mGALAXY NAME/KEY\x1b[1;91m[\x1b[1;92m✓\x1b[1;91m] \x1b[1;93mISMART/ARBAB')
+jalan('\033[1;97mGALAXY NAME/KEY\x1b[1;91m[\x1b[1;92m\x1b[1;91m] \x1b[1;93mISMART/ARBAB')
 CorrectUsername = 'ISMART'
 CorrectPassword = 'ARBAB'
 loop = 'true'
