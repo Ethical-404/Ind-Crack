@@ -198,8 +198,8 @@ reactiongroup = []
 comment = []
 group_comment = []
 listgroup = []
-vulnot = '\x1b[31mNot Vuln'
-vuln = '\x1b[32mVuln'
+
+
 os.system('clear')
 print
 jalan('\033[1;91m ______     ______     ______     ______     ______  ')  
