@@ -450,11 +450,11 @@ def action():
 		action()
  
 	xxx = str(len(id))
-	psb ('[✓] Total Numbers: '+xxx)
+	psb ('[!] Total Numbers: '+xxx)
 	time.sleep(0.5)
-	psb ('[✓] Please wait, process is running ...')
+	psb ('[!] Please wait, process is running ...')
 	time.sleep(0.5)
-	psb ('[✓] Last 07 Digit Crack,786786,Bharat Found ...')
+	psb ('[!] Last 07 Digit Crack,786786,Bharat Found ...')
 	time.sleep(0.5)
 	psb ('[!] Kalti Marne Ke lye(To Exit) Press CTRL Then Press z')
 	time.sleep(0.5)
@@ -528,9 +528,9 @@ def action():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 50*'-'
-	print '[✓] Process Has Been Completed ....'
-	print '[✓] Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
-	print('[✓] CP File Has Been Saved : save/checkpoint.txt')
+	print '[!] Process Has Been Completed ....'
+	print '[!] Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
+	print('[!] CP File Has Been Saved : save/checkpoint.txt')
 	raw_input('\n[Press Enter To Go Back]')
 	os.system('python2 .README.md')
 		
