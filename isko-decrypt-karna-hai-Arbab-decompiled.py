@@ -247,10 +247,10 @@ while loop == 'true':
             loop = 'false'
         else:
             print '\x1b[1;91mWrong Password'
-            os.system('xdg-open https://youtu.be/Vcg8yW4pwsw')
+            os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
     else:
         print '\x1b[1;91mWrong Username'
-        os.system('xdg-open https://youtu.be/Vcg8yW4pwsw')  
+        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')  
 print("DEAR MOST WELLCOME ON ARBAB,S GALAXY")
 jalan('\033[1:92mCOLLECTING YOUR SYSTEM DONT GO ANYWHERE')
 def menu():
